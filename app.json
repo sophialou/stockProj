@@ -1,0 +1,6 @@
+{
+  "name": "Stocks!!!",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/sophialou/stockProj",
+  "keywords": ["node", "express", "static"],
+}

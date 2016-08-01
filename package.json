@@ -1,0 +1,27 @@
+{
+  "name": "node-js-getting-started",
+  "version": "0.2.5",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "4.4.5"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3",
+    "monk": "^1.0.1",
+    "yahoo-finance": "0.2.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sophialou/stockProj"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
+}
